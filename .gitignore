@@ -1,0 +1,1 @@
+*.tif\n*.tiff\n*.jpg\n*.png\n__pycache__/\n*.pyc
